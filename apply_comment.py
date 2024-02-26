@@ -1,5 +1,5 @@
 # request input from user and print statement
 
-statement = input("please put your input here.")
-print (statement)
+user_input = input("please put your input here.")
+print (user_input)
 
